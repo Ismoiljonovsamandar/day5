@@ -40,6 +40,10 @@
   padding: 12px 32px;
 }
 
+.hero__link:hover {
+  background-color: #f3613c6f;
+}
+
 @media screen and (max-width: 830px) {
   .hero__container {
     flex-direction: column-reverse;
